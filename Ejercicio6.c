@@ -1,6 +1,6 @@
 /*
 López Coria Mauricio
-Ejercicio 5 Arreglos multidimensionales*/
+Ejercicio 6 Arreglos multidimensionales*/
 #include<stdio.h>
 int main()
 {
